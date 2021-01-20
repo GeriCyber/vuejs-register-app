@@ -1,4 +1,4 @@
 // vue.config.js
 module.exports = {
- publicPath: '/vuejsForm/'
+ publicPath: '/vuejs-register-app/'
 } 
